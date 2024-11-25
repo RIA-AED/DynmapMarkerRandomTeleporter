@@ -3,3 +3,10 @@ version: '1.0-SNAPSHOT'
 main: ink.magma.dynmapMarkerRandomTeleporter.DynmapMarkerRandomTeleporter
 api-version: '1.20'
 authors: [ Magma ]
+depend:
+  - dynmap
+commands:
+  randomteleport:
+    description: 进行一次随机传送
+    permission: dynmapmarkerrandomteleporter.random
+    usage: /<command>
