@@ -26,7 +26,7 @@ public final class DynmapMarkerRandomTeleporter extends JavaPlugin {
         });
 
         // 注册随机传送命令
-        this.getCommand("randomteleport").setExecutor(new RandomTeleportCommand());
+        this.getCommand("tori-rtp").setExecutor(new RandomTeleportCommand());
     }
 
     @Override

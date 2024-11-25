@@ -6,7 +6,7 @@ authors: [ Magma ]
 depend:
   - dynmap
 commands:
-  randomteleport:
+  tori-rtp:
     description: 进行一次随机传送
     permission: dynmapmarkerrandomteleporter.random
     usage: /<command>
