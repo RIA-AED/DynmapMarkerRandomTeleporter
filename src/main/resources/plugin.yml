@@ -1,0 +1,5 @@
+name: DynmapMarkerRandomTeleporter
+version: '1.0-SNAPSHOT'
+main: ink.magma.dynmapMarkerRandomTeleporter.DynmapMarkerRandomTeleporter
+api-version: '1.20'
+authors: [ Magma ]
